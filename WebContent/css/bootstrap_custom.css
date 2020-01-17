@@ -1,0 +1,48 @@
+@CHARSET "UTF-8";
+
+/* whole */
+.mpy-container{
+	margin-bottom: 10em;
+}
+
+.pt-container{
+	padding-top: 15em;	
+}
+
+.pd-jumbotron{
+	padding-top: 10em;
+}
+
+.pd-row{
+	padding-bottom: 5em;
+}
+
+.container-fluid {
+  padding: 5em 5em;
+}
+
+.logo {
+  font-size: 200px;
+}
+
+@media screen and (max-width: 768px) {
+  .col-sm-4 {
+    text-align: center;
+    margin: 25px 0;
+  }
+}
+
+.logo-design{
+	max-width: 5.5em;
+}
+
+/* Add an orange color to all icons and set the font-size */
+.logo-small {
+  color: #3399ff;
+  font-size: 50px;
+}
+
+.logo {
+  color: #3399ff;
+  font-size: 200px;
+}
